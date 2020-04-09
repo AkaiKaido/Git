@@ -1,4 +1,10 @@
 mooore
 and more
 
+from bad branch
+bad branch
+
+changes after commit in master
+
+from master
 main master some changes
